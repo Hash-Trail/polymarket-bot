@@ -1,5 +1,7 @@
 # Case 01 — My Polymarket bot won 93% of its bets and still lost money
 
+**Video:** https://youtu.be/5sYkiIuqMNU
+
 A bot bought outcome shares on Polymarket at 90–95¢ ("prediction market bonds") with real money,
 from **March 19 to June 10, 2026**, with a bank of about $100 and bets of about $2.
 
