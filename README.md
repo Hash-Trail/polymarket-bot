@@ -6,6 +6,3 @@ Each folder is one case: what the video claims, where every number comes from, a
 | Case | Video |
 |---|---|
 | [01 — My Polymarket bot won 93% of its bets and still lost money](01-polymarket-bot/) | coming soon |
-
-Rules for everything published here: no full wallet addresses of private people, no personal data,
-aggregates instead of raw rows when raw rows could identify someone.
