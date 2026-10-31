@@ -1,0 +1,5 @@
+result,bets,staked_usd,pnl_usd,fees_usd
+Won,753,1401.92,99.18,5.92
+Lost,54,100.09,-100.66,0.57
+StoppedOut,8,15.19,-9.41,0.02
+Void,2,3.76,-1.73,0.00
